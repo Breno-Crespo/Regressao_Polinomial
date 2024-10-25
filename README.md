@@ -1,4 +1,4 @@
-#Projeto de Regressão Polinomial
+# Projeto de Regressão Polinomial
 
 
 Este projeto utiliza regressão polinomial para prever valores com base em um conjunto de dados. Ele inclui etapas de pré-processamento e validação cruzada (k-fold) para avaliar a performance do modelo, bem como o cálculo de métricas como o RMSE (Root Mean Squared Error) e o R² Score.
